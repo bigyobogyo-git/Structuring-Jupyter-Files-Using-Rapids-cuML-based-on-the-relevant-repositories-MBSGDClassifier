@@ -17,7 +17,7 @@ https://github.com/bigyobogyo-git/RAPIDS-cuML/blob/master/Installation%20Guide
 
 All the codes should be available for donwload and free to modify of course as it serves nothing but educational and testing purposes. 
 
-Teh data I used can be downloaded from here:
+The data I used can be downloaded from here:
 
 
 https://drive.google.com/file/d/1lozVDu93DYuUPyuDZIPYcxsiPzVCI4n3/view?pli=1
